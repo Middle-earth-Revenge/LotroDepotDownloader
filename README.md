@@ -9,7 +9,7 @@ dotnet DepotDownloader.dll -app <id> [-depot <id> [-manifest <id>]]
     [-username <username> [-password <password>]] [other options]
 ```
 
-For example: `dotnet DepotDownloader.dll -app 730 -depot 731 -manifest 7617088375292372759`
+For example: (for SoM) `dotnet DepotDownloader.dll -app 212500 -depot 212502 -manifest 2584717613749074450`
 
 ### Downloading a workshop item using pubfile id
 ```
